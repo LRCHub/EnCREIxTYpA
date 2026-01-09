@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "JUST LIVE MORE",
+  "base_artist": "鎧武乃風",
+  "createdAt": "2026-01-09T07:16:05.498123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE",
+      "artist": "鎧武乃風",
+      "has_synced": true,
+      "path": "select/01_JUST_LIVE_MORE_鎧武乃風.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE",
+      "artist": "鎧武乃風",
+      "has_synced": true,
+      "path": "select/02_JUST_LIVE_MORE_鎧武乃風.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE(『仮面ライダー鎧武』主題歌)",
+      "artist": "鎧武乃風",
+      "has_synced": true,
+      "path": "select/03_JUST_LIVE_MORE(『仮面ライダー鎧武』主題歌)_鎧武乃風.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE (RIDER CHIPS Ver.) (Kamen Rider Gaim)",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/04_JUST_LIVE_MORE_(RIDER_CHIPS_Ver.)_(Kamen_Rider_Gaim)_RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE (RIDER CHIPS Ver.)",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/05_JUST_LIVE_MORE_(RIDER_CHIPS_Ver.)_RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "JUST LIVE MORE 『超英雄祭』( LIVE )",
+      "artist": "鎧武乃風",
+      "has_synced": false,
+      "path": "select/06_JUST_LIVE_MORE_『超英雄祭』(_LIVE_)_鎧武乃風.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUST LIVE MORE",
+      "artist": "鎧武乃風",
+      "has_synced": false,
+      "path": "select/pl_01_JUST_LIVE_MORE_鎧武乃風.txt"
+    }
+  ]
+}
